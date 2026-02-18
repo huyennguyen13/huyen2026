@@ -25,14 +25,14 @@ Công nghệ sử dụng
 - MySQL
 - Bootstrap
   
-Tài khoản demo
-Admin:
+Tài khoản demo 
+# Admin:
 - Username: anvqpc@gmail.com
 - Password: 123
-Employee:
+# Employee:
 - Username: huyenntmpc07545@fpt.edu.vn
 - Password: 1234
-Customer:
+# Customer:
 - Username: huongnt@gmail.com
 - Password: 12345
 Hướng dẫn chạy project
