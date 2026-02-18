@@ -43,8 +43,31 @@ spring.datasource.password=yourpassword
 5. Chạy project
 Run as Spring Boot Application
    Cấu trúc bổ sung
-- `/database` : Chứa file SQL
-- `/docs` : Thiết kế database, tài liệu
+[`/database`](database) : Chứa file SQL  
+[`/docs`](docs) : Thiết kế database, tài liệu
+- `/images`: Giao diện
+# Trang chủ
+![Trang chủ](images/Trangchu1.jpg)
+![Trang chủ](images/Trangchu2.jpg)
+![Trang chủ](images/Trangchu3.png)
+![Trang chủ](images/Trangchu4.png)
+# Trang quản trị
+![Trang Quản Trị](images/Trangquantri.jpg)
+# Trang sản phẩm
+![Sản phẩm](images/SanPham.png)
+# Đánh giá
+![Đánh Giá](images/DanhGia.png)
+# Thống kê
+![Thống kê](images/ThongKe.png)
+# Chờ dịch vụ
+![Chờ dịch vụ](images/Chodichvu.png)
+# Đặt dịch vụ
+![Đặt dịch vụ](images/Datdichvu.png)
+# Đặt hàng
+![Đặt hàng](images/DatHang.png)
+# Giỏ hàng
+![Giỏ hàng](images/GioHang.png)
+
 ## 👩‍💻 Tác giả
 Huyen Nguyen  
 GitHub: https://github.com/huyennguyen13
