@@ -47,8 +47,10 @@ spring.datasource.password=yourpassword
 Run as Spring Boot Application
 
 ## Cấu trúc bổ sung
-[Database SQL](database/petshop.sql): Chứa file SQL  
-[`/docs`](docs) : Thiết kế database, tài liệu
+## Tài liệu
+- 📂 [Database SQL](database/petshop.sql)
+- 📄 [Tài liệu thiết kế hệ thống](docs/thietke.pdf)
+
 - `/images`: Giao diện
 # Trang chủ
 ![Trang chủ](images/Trangchu1.jpg)
