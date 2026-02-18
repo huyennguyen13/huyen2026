@@ -27,11 +27,14 @@ Công nghệ sử dụng
   
 Tài khoản demo
 Admin:
-- Username: admin
-- Password: 123456
+- Username: anvqpc@gmail.com
+- Password: 123
+Employee:
+- Username: huyenntmpc07545@fpt.edu.vn
+- Password: 1234
 Customer:
-- Username: user
-- Password: 123456
+- Username: huongnt@gmail.com
+- Password: 12345
 Hướng dẫn chạy project
 1. Clone project: git clone https://github.com/huyennguyen13/huyen2026.git
 2. Tạo database: CREATE DATABASE petshop;
@@ -42,8 +45,9 @@ spring.datasource.username=root
 spring.datasource.password=yourpassword
 5. Chạy project
 Run as Spring Boot Application
-   Cấu trúc bổ sung
-[`/database`](database) : Chứa file SQL  
+
+Cấu trúc bổ sung
+[Database SQL](database/petshop.sql): Chứa file SQL  
 [`/docs`](docs) : Thiết kế database, tài liệu
 - `/images`: Giao diện
 # Trang chủ
